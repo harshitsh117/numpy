@@ -51,7 +51,7 @@ Mark Wiebe for the new NumPy iterator, the float16 data type, improved
     low-level data type operations, and other NumPy core improvements.
 
 NumPy is based on the Numeric (Jim Hugunin, Paul Dubois, Konrad
-Hinsen, and David Ascher) and NumArray (Perry Greenfield, J Todd
+Hinsen, and David Ascher) and NumArray (Perry Greenfield, Todd
 Miller, Rick White and Paul Barrett) projects.  We thank them for
 paving the way ahead.
 
@@ -62,3 +62,5 @@ Enthought for providing resources and finances for development of NumPy.
 UC Berkeley for providing travel money and hosting numerous sprints.
 The University of Central Florida for funding the 2008 Documentation Marathon.
 The University of Stellenbosch for hosting the buildbot.
+
+Thank You.
